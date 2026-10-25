@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&duration=4000&pause=500&color=071DFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Archimedes;Cheruiyot" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dynalight&size=48&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Archimedes" alt="Typing SVG" /></a>
 
 </div>
 
@@ -68,7 +68,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/archimedes-cheruiyot-4392b530b)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/2547XXXXXXXX](https://wa.link/xwnb78))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78)
 [![GitHub](https://img.shields.io/badge/GitHub-Arch117-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Arch117)
 
 </div>

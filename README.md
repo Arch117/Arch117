@@ -3,7 +3,7 @@
   <img src="./neon_typing.svg" alt="Archimedes neon typing">
 
 ### `BUILDING THE FUTURE, ONE STEP AT A TIME.`
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Developer+student;Junior+Web+Developer;+Frontend+Developer+Learner;HTML+%7C+CSS+%7C+JavaScript;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Developer+student;Turning+Ideas+Into+Reality;Junior+Web+Developer;+Frontend+Developer+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" /></a>
 <br>
 
 </div>
@@ -11,20 +11,35 @@
 ---
 
 ## ⚡ TECH STACK
-
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
 
 ### FRONTEND DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
 
+</td>
+<td align="center" width="33%">
+
 ### TOOLS & WORKFLOW
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
 
-</div>
+</td>
+<td align="center" width="34%">
 
----
+### AREAS OF INTEREST
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,python,tensorflow" alt="MongoDB, SQL, Python, AI and Machine Learning" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🚀 FEATURED PROJECTS
 

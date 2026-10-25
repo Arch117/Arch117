@@ -1,17 +1,9 @@
 ## ⚡ Hello, I am:
 <div align="center">
-
-<div align="center">
-
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=00F7FF&lines=Archimedes;"/>
   <img src="./neon_typing.svg" alt="Archimedes neon typing">
 
-</div>
-
 ### `BUILDING THE FUTURE, ONE STEP AT A TIME.`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript;Software+Developer+%26+Student;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Developer+student;Junior+Web+Developer;+Frontend+Developer+Learner;HTML+%7C+CSS+%7C+JavaScript;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 <br>
 
 </div>
@@ -69,8 +61,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/archimedes-cheruiyot-4392b530b)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78) <br><br>
 [![GitHub](https://img.shields.io/badge/GitHub-Arch117-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Arch117)
-<br><br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78)
 
 </div>

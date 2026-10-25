@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Climate+Crisis&size=48&duration=2000&pause=700&color=00BFFF;00FFFF;FFFFFF;4169E1&background=00000000&center=true&vCenter=true&width=600&height=90&lines=Archimedes" alt="Archimedes Neon Typing Animation" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=00F7FF&lines=Archimedes;"/>
+  <img src="./neon_typing.svg" alt="Archimedes neon typing">
 
 </div>
 
@@ -69,7 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/archimedes-cheruiyot-4392b530b)
 [![GitHub](https://img.shields.io/badge/GitHub-Arch117-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Arch117)
-<br>
+<br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78)
 
 </div>

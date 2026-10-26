@@ -17,7 +17,7 @@
 <tr>
 <td align="center" width="33%">
 
-### FRONTEND
+### FRONTEND DEV
 
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
 

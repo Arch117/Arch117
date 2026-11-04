@@ -76,7 +76,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/archimedes-cheruiyot-4392b530b)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78) <br><br>
-[![GitHub](https://img.shields.io/badge/GitHub-Arch117-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF)](https://github.com/Arch117)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78) <br>
 
 </div>

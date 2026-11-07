@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arch117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Arch117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" alt="Most used languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arch117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" alt="Most Used Languages" />
 
 </div>
 

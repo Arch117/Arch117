@@ -77,7 +77,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/archimedes-cheruiyot-4392b530b)
 <a href="https://www.tiktok.com/@archi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok">
   </a><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xwnb78)
 

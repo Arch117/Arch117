@@ -45,6 +45,7 @@
 
 ### 🎮 Blockville Game: [**PLAY GAME**](https://arch117.github.io/Blockville-Game/)
 ### 🧊 Futuristic CSS Cube: [**VIEW CUBE**](https://arch117.github.io/VSS-Cune/)
+### 🛂 Know Archimedes: [**START TRIVIA**](https://knowarchimedes.vercel.app/)
 
 ---
 

@@ -3,7 +3,7 @@
   <img src="./neon_typing.svg" alt="Archimedes neon typing">
 
 ### `BUILDING THE FUTURE, ONE STEP AT A TIME.`
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Developer+student;Turning+Ideas+Into+Reality;Junior+Web+Developer;+Frontend+Developer+Learner;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Development;Turning+Ideas+Into+Reality;Junior+Web+Developer;+Game+Developer;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" /></a>
 <br>
 
 </div>
@@ -43,9 +43,9 @@
 
 ## 🚀 FEATURED PROJECTS
 
-| 🎮 Blockville Game | 🧊 Futuristic CSS Cube | 🛂 Know Archimedes |
-|:---:|:---:|:---:|
-| [PLAY GAME](https://arch117.github.io/Blockville-Game/) | [VIEW CUBE](https://arch117.github.io/VSS-Cune/) | [START TRIVIA](https://knowarchimedes.vercel.app/) |
+| 🎮 Blockville Game | 🧊 Futuristic CSS Cube | 🛂 Know Archimedes | 🏃‍♀️‍➡️Cyberrun Game |
+|:---:|:---:|:---:|:---:|
+| [PLAY GAME](https://arch117.github.io/Blockville-Game/) | [VIEW CUBE](https://arch117.github.io/VSS-Cune/) | [START TRIVIA](https://knowarchimedes.vercel.app/) | [PLAY GAME](https://cyberrun-phi.vercel.app/) |
 
 ## 📊 GITHUB ACTIVITY
 

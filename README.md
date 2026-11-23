@@ -43,9 +43,19 @@
 
 ## 🚀 FEATURED PROJECTS
 
-| 🎮 Blockville Game | 🧊 Futuristic CSS Cube | 🛂 Know Archimedes | 🏃‍♀️‍➡️Cyberrun Game | 📋Expense Tracker | 🐍Snake Game |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [PLAY GAME](https://arch117.github.io/Blockville-Game/) | [VIEW CUBE](https://arch117.github.io/VSS-Cune/) | [START TRIVIA](https://knowarchimedes.vercel.app/) | [PLAY GAME](https://cyberrun-phi.vercel.app/) | [TRACK EXPENSES](https://arch117.github.io/Student-Expense-Tracker/) | [PLAY GAME](https://snakegame-plum-eta.vercel.app/)
+<table align="center">
+  <tr>
+    <td align="center"><strong>🎮 Blockville Game</strong><br><a href="https://arch117.github.io/Blockville-Game/">PLAY GAME</a></td>
+    <td align="center"><strong>🧊 Futuristic CSS Cube</strong><br><a href="https://arch117.github.io/VSS-Cune/">VIEW CUBE</a></td>
+    <td align="center"><strong>🛂 Know Archimedes</strong><br><a href="https://knowarchimedes.vercel.app/">START TRIVIA</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🏃 Cyberrun Game</strong><br><a href="https://cyberrun-phi.vercel.app/">PLAY GAME</a></td>
+    <td align="center"><strong>📋 Expense Tracker</strong><br><a href="https://arch117.github.io/Student-Expense-Tracker/">TRACK EXPENSES</a></td>
+    <td align="center"><strong>🐍 Snake Game</strong><br><a href="https://snakegame-plum-eta.vercel.app/">PLAY GAME</a></td>
+  </tr>
+</table>
+
 
 ## 📊 GITHUB ACTIVITY
 

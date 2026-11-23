@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./neon_typing.svg" alt="Archimedes neon typing">
 
-### `BUILDING THE FUTURE, ONE STEP AT A TIME.`
+### `IT ALWAYS SEEMS IMPOSSIBLE UNTIL IT'S DONE.`
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=28&duration=2000&pause=500&color=0CECFF&background=4DFF4F00&center=true&vCenter=true&width=430&lines=Software+Development;Turning+Ideas+Into+Reality;Junior+Web+Developer;+Game+Developer;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" /></a>
 <br>
 
@@ -54,17 +54,6 @@
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=Arch117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Statistics" />
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arch117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🌌 MY DEVELOPER MINDSET
-<div align="center">
-
-### 💙 CODE. CREATE. INNOVATE.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:005eff,100:00BFFF&height=120&section=footer" alt="Blue futuristic footer" />
 
 </div>
 
